@@ -8,7 +8,7 @@
 
 Deve existir um repositório `xxx-study-group` que foi criado pela administração do projeto grupos de estudos para que você continue o processo de criação do grupo.
 
-Caso este repo não exista, comente em uma [issue no repositório do grupos de estudos](https://github.com/training-center/study-groups/issues).
+Caso este repo não exista, comente em uma [issue no repositório do grupos de estudos](https://github.com/trainingsredevops/study-groups/issues).
 
 Você deverá clonar o repositório do seu grupo de estudos para a sua máquina e em seguida clonar este projeto inteiro para dentro do repositório.
 
@@ -20,7 +20,7 @@ Faça o git pull.
 
 Em seguida baixe este repositório dentro do seu com o seguinte procedimento:
 
-1. clone o repositório template para o seu projeto: `git clone git@github.com:training-center/template-study-group.git`
+1. clone o repositório template para o seu projeto: `git clone git@github.com:trainingsredevops/template-study-group.git`
 1. mova os arquivos da pasta template para o seu projeto: `mv template-study-group/assets/ template-study-group/LICENSE template-study-group/material/ template-study-group/README.md . && rm -rf template-study-group`
 1. altere este documento conforme o guia abaixo
 
@@ -30,13 +30,13 @@ Agora basta alterar este documento para adicionar suas informações.
 
 No título do documento (template-study-group), mude de template para o tema do grupo.
 
-Onde estiver [xxx] em todo o repositório, mude para o tema do seu grupo. Como, por exemplo, `Repositório do grupo de estudos sobre Clojure do [Training Center](https://training-center.github.io).`
+Onde estiver [xxx] em todo o repositório, mude para o tema do seu grupo. Como, por exemplo, `Repositório do grupo de estudos sobre Docker do [Training SRE DevOps](https://trainingsredevops.github.io).`
 
-Exemplo de repositório: [clojure-study-group](https://github.com/training-center/clojure-study-group).
+Exemplo de repositório: [docker-study-group](https://github.com/trainingsredevops/docker-study-group).
 
 Com tudo alterado, basta fazer o push.
 
-Caso você tenha qualquer dúvida sobre o processo de criação do grupo de estudos, abra uma issue em [study-group](https://github.com/training-center/study-groups).
+Caso você tenha qualquer dúvida sobre o processo de criação do grupo de estudos, abra uma issue em [study-group](https://github.com/trainingsredevops/study-groups).
 
 Apague tudo o que estiver entre -- [DAQUI] -- e -- [ATÉ AQUI] --.
 
@@ -44,7 +44,7 @@ Apague tudo o que estiver entre -- [DAQUI] -- e -- [ATÉ AQUI] --.
 
 -- [ATÉ AQUI] --
 
-Repositório do grupo de estudos sobre [xxx] do [Training Center](https://training-center.github.io).
+Repositório do grupo de estudos sobre [xxx] do [Training Center](https://trainingsredevops.github.io).
 
 <p align="center">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
@@ -54,11 +54,11 @@ Repositório do grupo de estudos sobre [xxx] do [Training Center](https://traini
 
 Este grupo se destina ao estudo de [xxx].
 
-Conforme [outros grupos de estudos](https://github.com/training-center/study-groups) da comunidade Training Center, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto que são gravados e disponibilizados no YouTube, no [canal do Training Center](https://www.youtube.com/c/TrainingCenterChannel).
+Conforme [outros grupos de estudos](https://github.com/trainingsredevops/study-groups) da comunidade Training SRE DevOps, nós temos um [roadmap](material/roadmap.md) de tópicos para estudar juntos e fazemos reuniões semanais sobre o assunto:
 
 ## Como participar
 
-Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#[xxx]-studies**.
+Ainda em elaboração
 
 ## Reuniões
 
@@ -77,4 +77,4 @@ Basta responder [este formulário]() para sabermos seu nível de conhecimento, e
 
 ## Responsáveis
 
-Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@xxx` no Slack do Training Center.
+Caso você precise entrar em contato com as pessoas responsáveis por este grupo de estudos, pode chamar por `@agnaldom` no Telegram.
